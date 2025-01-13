@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<family>
+    <member role="father" gender="male" age="40">Jake</member>
+    <member role="motther" gender="female" age="38">Kat</member>
+    <member role="son" gender="male" age="18">Jack</member>
+    <member role="daughter" gender="female" age="15">Kim</member>
+    <member role="pet" gender="male" age="1">Sid</member>
+</family>
