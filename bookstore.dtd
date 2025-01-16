@@ -1,0 +1,12 @@
+<!ELEMENT bookstore (book)*>
+<!ELEMENT book (author)*>
+<!ELEMENT author (#PCDATA)>
+
+<!ATTLIST book title CDATA #IMPLIED>
+<!ATTLIST book pages CDATA #IMPLIED>
+<!ATTLIST book genre CDATA #IMPLIED>
+
+<!ATTLIST author gender CDATA #IMPLIED>
+<!ATTLIST author title CDATA #IMPLIED>
+<!ATTLIST author still-practicing (yes|no) #IMPLIED>
+<!ATTLIST author prev-book CDATA #REQUIRED>

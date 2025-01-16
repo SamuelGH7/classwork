@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE group SYSTEM "homework.dtd">
+
+<group>
+
+    <parent hobby="singing" gender="male" age="40" name="Johnson">
+        <child gender="female" position="first" hobby="skating" age="18" name="Katie"></child>
+        <child gender="male" position="second" hobby="drawing" age="15" name="Justin"></child>
+    </parent>
+
+    <parent hobby="dancing" gender="female" age="38" name="Jenny">
+        <child gender="female" position="second" hobby="drawing" age="15" name="Carla"></child>
+        <child gender="male" position="third" hobby="painting" age="10" name="Joe"></child>
+    </parent>
+    
+</group>

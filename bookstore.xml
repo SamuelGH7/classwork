@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE bookstore SYSTEM "bookstore.dtd">
+
+<bookstore>
+
+    <book title="Gifted" pages="100" genre="History">
+        <author gender="male" title="Mr" still-practicing="yes" prev-book="Think">Ben</author>
+    </book>
+
+    <book title="Savy" pages="120" genre="Classical">
+        <author gender="female" title="Miss" still-practicing="yes" prev-book="Fiesty">Cindy</author>
+    </book>
+
+    <book title="Dreg" pages="150" genre="Novel">
+        <author gender="male" title="Dr" still-practicing="no" prev-book="Full">Jake</author>
+    </book>
+
+    <book title="Daymare" pages="250" genre="Warfare">
+        <author gender="female" title="Mr" still-practicing="yes" prev-book="Nightmare">Pete</author>
+    </book>
+
+</bookstore>
