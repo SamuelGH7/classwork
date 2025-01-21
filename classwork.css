@@ -1,0 +1,36 @@
+family {
+  margin: 30px;
+  background-color: #fefefe;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-flow: wrap;
+}
+
+member {
+  display: flex;
+  flex-direction: column;
+  font-family: sans-serif;
+  text-align: center;
+  font-size: 23px;
+  width: 20%;
+  margin: 40px;
+  margin-top: 50px;
+  color: #fff;
+  background: #4f4ff2;
+  padding: 30px 20px;
+  border-radius: 10px;
+  transition: 0.3s;
+  cursor: pointer;
+}
+
+member:hover {
+  transform: scale(1.05);
+  box-shadow: 0 0 40px -10px rgba(0, 0, 0, 0.25);
+}
+
+name,
+age,
+gender {
+  margin-bottom: 10px;
+}

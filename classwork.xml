@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="classwork.css" type="text/css"?>
 
 <!-- <family>
     <member role="father" gender="male" age="40">Jake</member>
@@ -13,33 +14,39 @@
 <family>
 
     <member>
-        <name>Jake</name>
-        <age>40</age>
-        <gender>Male</gender>
+        <name>Name: Jake</name>
+        <age>Age: 40</age>
+        <gender>Gender: Male</gender>
     </member>
 
     <member>
-        <name>Kat</name>
-        <age>38</age>
-        <gender>Female</gender>
+        <name>Name: Kat</name>
+        <age>Age: 38</age>
+        <gender>Gender: Female</gender>
     </member>
 
     <member>
-        <name>Jack</name>
-        <age>18</age>
-        <gender>Male</gender>
+        <name>Name: Jack</name>
+        <age>Age: 18</age>
+        <gender>Gender: Male</gender>
     </member>
 
     <member>
-        <name>Kim</name>
-        <age>15</age>
-        <gender>Female</gender>
+        <name>Name: Kim</name>
+        <age>Age: 15</age>
+        <gender>Gender: Female</gender>
     </member>
 
     <member>
-        <name>Sid</name>
-        <age>1.5</age>
-        <gender>Male</gender>
+        <name>Name: Knowles</name>
+        <age>Age: 13</age>
+        <gender>Gender: Male</gender>
+    </member>
+
+    <member>
+        <name>Name: Sid</name>
+        <age>Age: 1.5</age>
+        <gender>Gender: Male</gender>
     </member>
     
 </family>

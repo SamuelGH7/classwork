@@ -1,0 +1,14 @@
+<!ELEMENT group (parent)*>
+<!ELEMENT parent (child)*>
+<!ELEMENT child (#PCDATA)>
+
+<!ATTLIST parent hobby CDATA #IMPLIED>
+<!ATTLIST parent gender CDATA #IMPLIED>
+<!ATTLIST parent age CDATA #IMPLIED>
+<!ATTLIST parent name CDATA #IMPLIED>
+
+<!ATTLIST child gender CDATA #IMPLIED>
+<!ATTLIST child position CDATA #IMPLIED>
+<!ATTLIST child hobby CDATA #IMPLIED>
+<!ATTLIST child age CDATA #IMPLIED>
+<!ATTLIST child name CDATA #REQUIRED>
